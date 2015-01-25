@@ -97,4 +97,4 @@ Much better! **Random Forest gives us `r round(rfResults$overall["Accuracy"] *10
 
 ### Results
 
-Given the two models we tested, rpart and Random Forest, **Random Forest performed better with `r round(rpartResults$overall["Accuracy"] *100, 2)`% Out-of-Sample prediction accuracy**.
+Given the two models we tested, rpart and Random Forest, **Random Forest performed better with `r round(rfResults$overall["Accuracy"] *100, 2)`% Out-of-Sample prediction accuracy**.
