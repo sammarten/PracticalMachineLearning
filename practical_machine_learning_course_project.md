@@ -112,4 +112,4 @@ Much better! **Random Forest gives us 99.89% Out-of-Sample Accuracy (0.11% Out-o
 
 ### Results
 
-Given the two models we tested, rpart and Random Forest, **Random Forest performed better with 87.14% Out-of-Sample prediction accuracy**.
+Given the two models we tested, rpart and Random Forest, **Random Forest performed better with 99.89% Out-of-Sample prediction accuracy**.
